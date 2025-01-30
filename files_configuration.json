@@ -111,19 +111,19 @@
         "CRV_BERCARIO_FIBRA_TAHTO": {
             "operacao": "CRV_BERCARIO_FIBRA",
             "eps": "TAHTO",
-            "arquivo": "tahto_projecao_nivel_bercario_fibra.xlsx",
+            "arquivo": "tahto_projecao_nivel_crv_bercario_fibra.xlsx",
             "planilha_volume": "Intra_NS",
             "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
-            "planilha_curva": "INTRA-HORA_CRV FIBRA NF  E LEG",
+            "planilha_curva": "INTRA-HORA_BERÇARIO_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
         "CRV_BERCARIO_NOVA_FIBRA_TAHTO": {
             "operacao": "CRV_BERCARIO_NOVA_FIBRA",
             "eps": "TAHTO",
-            "arquivo": "tahto_projecao_nivel_bercario_nova_fibra.xlsx",
+            "arquivo": "tahto_projecao_nivel_crv_bercario_nova_fibra.xlsx",
             "planilha_volume": "Intra_NS",
             "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
-            "planilha_curva": "INTRA-HORA_CRV FIBRA NF  E LEG",
+            "planilha_curva": "INTRA-HORA_BERÇARIO_NOVA_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
         "CRV_TEC_FIBRA_TAHTO": {
@@ -132,7 +132,7 @@
             "arquivo": "tahto_projecao_nivel_crv_tec_fibra.xlsx",
             "planilha_volume": "Intra_NS",
             "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
-            "planilha_curva": "INTRA-HORA_CRV FIBRA NF  E LEG",
+            "planilha_curva": "INTRA-HORA_TÉCNICO_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
         "CRV_TEC_NOVA_FIBRA_TAHTO": {
@@ -141,7 +141,7 @@
             "arquivo": "tahto_projecao_nivel_crv_tec_nova_fibra.xlsx",
             "planilha_volume": "Intra_NS",
             "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
-            "planilha_curva": "INTRA-HORA_CRV FIBRA NF  E LEG",
+            "planilha_curva": "INTRA-HORA_TÉCNICO_NOVA_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
        "CRV_CANAIS_TAHTO": {
