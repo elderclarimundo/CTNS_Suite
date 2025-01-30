@@ -5,7 +5,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_fibra.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
+            "colunas_volume": [37, 39, 40, 41, 42, 43, 44],
             "planilha_curva": "INTRA-HORA_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -14,7 +14,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_fibra.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [54, 56, 57, 58, 59, 60, 61],
+            "colunas_volume": [1, 3, 4, 5, 6, 7, 8],
             "planilha_curva": "INTRA-HORA_NOVA_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -23,7 +23,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_fibra.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [36, 38, 39, 40, 41, 42, 43],
+            "colunas_volume": [46, 48, 49, 50, 51, 52, 53],
             "planilha_curva": "INTRA-HORA_ESPEC_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -32,7 +32,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_fibra.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [45, 47, 48, 49, 50, 51, 52],
+            "colunas_volume": [55, 57, 58, 59, 60, 61, 62],
             "planilha_curva": "INTRA-HORA_Especializado_NF",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -41,7 +41,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_fibra.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [9, 11, 12, 13, 14, 15, 16],
+            "colunas_volume": [28, 30, 31, 32, 33, 34, 35],
             "planilha_curva": "INTRA-HORA_FIBRA_EMP",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -50,7 +50,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_fibra.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [18, 20, 21, 22, 23, 24, 25],
+            "colunas_volume": [10, 12, 13, 14, 15, 16, 17],
             "planilha_curva": "INTRA-HORA_CHAT_FIBRA",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -104,7 +104,7 @@
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_ouvidoria_anatel_cobre.xlsx",
             "planilha_volume": "Intra_NS",
-            "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
+            "colunas_volume": [1, 3, 4, 5, 6, 7, 8],
             "planilha_curva": "INTRA-HORA_Cobre+DTH",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
@@ -139,15 +139,6 @@
             "operacao": "CRV_TEC_NOVA_FIBRA",
             "eps": "TAHTO",
             "arquivo": "tahto_projecao_nivel_crv_tec_nova_fibra.xlsx",
-            "planilha_volume": "Intra_NS",
-            "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
-            "planilha_curva": "INTRA-HORA_CRV FIBRA NF  E LEG",
-            "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-        },
-        "CRV_FIBRA_TAHTO": {
-            "operacao": "CRV_FIBRA",
-            "eps": "TAHTO",
-            "arquivo": "tahto_projecao_nivel_crv_fibra.xlsx",
             "planilha_volume": "Intra_NS",
             "colunas_volume": [0, 2, 3, 4, 5, 6, 7],
             "planilha_curva": "INTRA-HORA_CRV FIBRA NF  E LEG",
@@ -241,27 +232,27 @@
         "SAC_TV_LIQ": {
             "operacao": "SAC_TV",
             "eps": "LIQ",
-            "arquivo": "outros_coringa.xlsx",
-            "planilha_volume": "CORINGA",
+            "arquivo": "liq_projecao_nivel_tv.xlsx",
+            "planilha_volume": "INTRA-HORA_TV",
             "colunas_volume": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41],
             "linhas_pular_vol": 4,
             "linhas_pular_tma": 4,
             "linhas_pular_%ns": 4,
             "linhas_pular_hc": 4,
-            "planilha_curva": "CORINGA",
+            "planilha_curva": "INTRA-HORA_TV",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
         "SAC_ANTENEIROS_TV_LIQ": {
             "operacao": "SAC_ANTENEIROS_TV",
             "eps": "LIQ",
-            "arquivo": "outros_coringa.xlsx",
-            "planilha_volume": "CORINGA",
+            "arquivo": "liq_projecao_nivel_anteneiros.xlsx",
+            "planilha_volume": "INTRA-HORA_TV",
             "colunas_volume": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41],
             "linhas_pular_vol": 4,
             "linhas_pular_tma": 4,
             "linhas_pular_%ns": 4,
             "linhas_pular_hc": 4,
-            "planilha_curva": "CORINGA",
+            "planilha_curva": "INTRA-HORA_TV",
             "colunas_curva": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
         },
         "RENTABILIZACAO_OI_TOTAL_FIBRA_TAHTO": {
